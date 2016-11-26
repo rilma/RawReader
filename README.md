@@ -1,4 +1,4 @@
-# Radar raw data App
+# Radar raw data reader
 
 This repository presents a simplified reader of JRO raw data.
 
