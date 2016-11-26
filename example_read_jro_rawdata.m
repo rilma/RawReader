@@ -3,7 +3,7 @@
 %   Example routine to read a raw data file of Jicamarca Radar
 %
 %   R. Ilma ( January 2007 )
-%   Jicamarca Radio Observatory, Lima, Peru
+%   
 %
 
 dpath = '/home/rilma/tmp/rawdata/D2006354/';

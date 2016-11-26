@@ -1,12 +1,12 @@
 function [header,system_header,radar_header,process_header] = read_jro_longheader(filename)
 %
-% This routine reads the header structures from the Jicamarca 
+% This routine reads the header structures from the JRO
 % data files (eg. d2003080000.r) and summarizes all the information
 % in a new header structure used by the other routines.
 %
 % This function is a simplified version of "read_longheader.m"
 %   R. Ilma ( January 2007 )
-%   Jicamarca Radio Observatory, Lima, Peru
+%   
 %
 
 fid = fopen(filename,'r','ieee-le');

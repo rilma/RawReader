@@ -16,7 +16,7 @@ function [newdata,fid,dtime,volt] = read_jro_rawdata(fid,header,startime,stoptim
 %
 % This function is a simplified vesion of "read_rawdata.m"
 %       R. Ilma ( January 2007 )
-%       Jicamarca Radio Observatory, Lima, Peru
+%       
 %
 
 pos = ftell(fid);

@@ -5,7 +5,7 @@ function sheader = read_jro_sheader(fid)
 %
 % Based on "read_sheader.m"
 %       R. Ilma ( January 2007 )
-%   Jicamarca Radio Observatory, Lima, Peru
+%   
 %
 
 length = fread(fid,1,'uint32');
