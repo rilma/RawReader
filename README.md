@@ -4,7 +4,7 @@ This repository presents a simplified reader of JRO raw data.
 
 ## Running the test
 
-Start Matlab and run the [example] (https://github.com/rilma/RawReader/blob/master/example_read_jro_rawdata.m) as follows to loop over blocks of radar data in a file:
+Start Matlab and run the [example](https://github.com/rilma/RawReader/blob/master/example_read_jro_rawdata.m) as follows to loop over blocks of radar data in a file:
 
 ```
 >> example_read_jro_rawdata
